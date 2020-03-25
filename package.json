@@ -1,5 +1,5 @@
 {
-  "name": "qiita記事Export",
+  "name": "export_qiita",
   "version": "0.1.0",
   "private": true,
   "scripts": {
